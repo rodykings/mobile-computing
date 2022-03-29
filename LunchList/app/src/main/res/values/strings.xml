@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lunch List</string>
+    <string name="name_label">Name:</string>
+    <string name="address_label">Address:</string>
+    <string name="button_label">save</string>
+    <string name="take_out_label">Take-out</string>
+    <string name="sit_down_label">Sit-Down</string>
+    <string name="delivery_label">Delivery</string>
+    <string name="type_label">Type:</string>
+    <string name="list_label">list</string>
+    <string name="details_label">details</string>
+</resources>
